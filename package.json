@@ -1,7 +1,7 @@
 {
   "name": "alurageek-api",
   "version": "1.0.0",
-  "description": "Products for Alura Geek fake store api",
+  "description": "Products for Nicolas fake store api",
   "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
@@ -17,7 +17,7 @@
     "javascript",
     "API"
   ],
-  "author": "Sofidev, contact@itssofi.dev",
+  "author": "Nicolas",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SofiDevO/alurageek-API/issues"
