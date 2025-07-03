@@ -141,6 +141,168 @@
             ]
         }
     ],
+    "NutricionalManual": [
+    {
+      "id": 1,
+      "name": "Huevos revueltos con tostadas",
+      "type": "Desayuno",
+      "calories": 350,
+      "proteins": 20,
+      "carbohydrates": 40,
+      "fats": 10,
+      "image": "https://comedera.com/wp-content/uploads/sites/9/2022/12/tosta-de-huevo-revuelto.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Avena con plátano",
+      "type": "Desayuno",
+      "calories": 300,
+      "proteins": 12,
+      "carbohydrates": 50,
+      "fats": 8,
+      "image": "https://campograndeperu.com/wp-content/uploads/2024/02/avena-con-platano.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pollo a la plancha con arroz",
+      "type": "Almuerzo",
+      "calories": 600,
+      "proteins": 35,
+      "carbohydrates": 50,
+      "fats": 20,
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/H6BF45RGRNBDDI6NYOP5LAMWAI.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ensalada de atún",
+      "type": "Almuerzo",
+      "calories": 450,
+      "proteins": 30,
+      "carbohydrates": 25,
+      "fats": 18,
+      "image": "https://recetas.encolombia.com/wp-content/uploads/2025/01/Ensalada-de-atun-con-aguacate.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sopa de verduras",
+      "type": "Cena",
+      "calories": 280,
+      "proteins": 10,
+      "carbohydrates": 30,
+      "fats": 5,
+      "image": "https://mejorconsalud.as.com/wp-content/uploads/2018/07/sopa-verduras-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sandwich de pavo",
+      "type": "Cena",
+      "calories": 350,
+      "proteins": 20,
+      "carbohydrates": 35,
+      "fats": 10,
+      "image": "https://www.lacocinasana.com/static/59bdd63adf529051381443d3480e28dd/a892d/pechuga_pavo_16043349ed.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Yogurt con granola",
+      "type": "Snack",
+      "calories": 200,
+      "proteins": 8,
+      "carbohydrates": 25,
+      "fats": 5,
+      "image": "https://b3tterfoods.com/cdn/shop/articles/bowl_de_granola_con_yogurt_y_frutas_1200x1200.jpg?v=1698767246"
+    },
+    {
+      "id": 8,
+      "name": "Fruta picada",
+      "type": "Snack",
+      "calories": 150,
+      "proteins": 2,
+      "carbohydrates": 30,
+      "fats": 1,
+      "image": "https://dabbawala.com.mx/wp-content/uploads/2023/03/mix-frutas-1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tostadas con mantequilla de maní y banana",
+      "type": "Desayuno",
+      "calories": 360,
+      "proteins": 12,
+      "carbohydrates": 45,
+      "fats": 14,
+      "image": "https://misantoremedio.com/cdn/shop/articles/Screen_Shot_2022-06-01_at_2.08.33_PM.png?v=1654106931&width=1100"
+    },
+    {
+      "id": 10,
+      "name": "Chía pudding con frutos rojos",
+      "type": "Desayuno",
+      "calories": 280,
+      "proteins": 10,
+      "carbohydrates": 30,
+      "fats": 12,
+      "image": "https://okdiario.com/img/recetas/2017/10/01/pudding-de-chia.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Arroz chaufa de pollo",
+      "type": "Almuerzo",
+      "calories": 700,
+      "proteins": 32,
+      "carbohydrates": 60,
+      "fats": 25,
+      "image": "https://comedera.com/wp-content/uploads/sites/9/2023/05/shutterstock_2073860435.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Tallarines rojos con carne",
+      "type": "Almuerzo",
+      "calories": 650,
+      "proteins": 28,
+      "carbohydrates": 70,
+      "fats": 22,
+      "image": "https://cocina-casera.com/wp-content/uploads/2018/04/tallarines-rojos.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Crema de zapallo con huevo sancochado",
+      "type": "Cena",
+      "calories": 320,
+      "proteins": 16,
+      "carbohydrates": 20,
+      "fats": 12,
+      "image": "https://cocinaperuana.espaciolatino.com/recetas-de-sopas/img600/crema-zapallo-huevo.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Tortilla de espinaca y queso",
+      "type": "Cena",
+      "calories": 340,
+      "proteins": 20,
+      "carbohydrates": 15,
+      "fats": 18,
+      "image": "https://images.aws.nestle.recipes/original/2024_10_14T08_58_48_badun_images.badun.es_tortilla_de_espinacas_y_queso_fresco.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Galletas integrales con mantequilla de maní",
+      "type": "Snack",
+      "calories": 230,
+      "proteins": 8,
+      "carbohydrates": 22,
+      "fats": 13,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjGaiwSafXfdzJnSbZRsCfkW-0yp_7pD6-dNWvLk53jhbpyPr8c4nYr2zKxp1RHZ_299BlNajKmb6rTg6Vbxqpo7ABSbhkHSNgB52P6ek1Jz_yi6baDwa8Avz6JVZNDQtX5TDWLADgIzQ/s1600/galletas-fruta-crema-cacahuete-02b.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Manzana con canela y yogur",
+      "type": "Snack",
+      "calories": 180,
+      "proteins": 6,
+      "carbohydrates": 28,
+      "fats": 5,
+      "image": "https://www.justspices.es/media/recipe/resized/510x510/recipe/Mix_para_porridge_yogur_con_manzana_y_canela-5.jpg"
+    }
+  ],
     "avatares": [
         {
             "userId": 1,
