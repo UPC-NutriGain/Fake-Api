@@ -331,7 +331,7 @@
     { "id": 4, "descripcion": "10 minutos de meditación", "nivelDificultad": "Fácil" },
     { "id": 5, "descripcion": "Haz 3 series de planchas", "nivelDificultad": "Intermedio" },
   {
-    "id": 1,
+    "id": 6,
     "titulo": "Hidratación Matutina",
     "descripcion": "Bebe un vaso de agua nada más levantarte para activar tu metabolismo",
     "nivelDificultad": "Fácil",
@@ -339,7 +339,7 @@
     "completado": false
   },
   {
-    "id": 2,
+    "id": 7,
     "titulo": "Caminar 10,000 Pasos",
     "descripcion": "Alcanza los 10,000 pasos durante el día, puedes usar las escaleras o caminar durante las llamadas",
     "nivelDificultad": "Medio",
@@ -347,7 +347,7 @@
     "completado": false
   },
   {
-    "id": 3,
+    "id": 8,
     "titulo": "Meditación de 5 Minutos",
     "descripcion": "Dedica 5 minutos a la meditación o respiración consciente para reducir el estrés",
     "nivelDificultad": "Fácil",
@@ -355,7 +355,7 @@
     "completado": false
   },
   {
-    "id": 4,
+    "id": 9,
     "titulo": "Ejercicio de Fuerza",
     "descripcion": "Realiza 3 series de 15 flexiones, sentadillas y planchas",
     "nivelDificultad": "Medio",
@@ -363,7 +363,7 @@
     "completado": false
   },
   {
-    "id": 5,
+    "id": 10,
     "titulo": "Técnica Pomodoro",
     "descripcion": "Trabaja durante 25 minutos concentrado y descansa 5 minutos. Repite 4 veces",
     "nivelDificultad": "Fácil",
@@ -371,7 +371,7 @@
     "completado": false
   },
   {
-    "id": 6,
+    "id": 11,
     "titulo": "Comida Sin Pantallas",
     "descripcion": "Come al menos una comida del día sin mirar el teléfono, TV o computadora",
     "nivelDificultad": "Medio",
@@ -379,7 +379,7 @@
     "completado": false
   },
   {
-    "id": 7,
+    "id": 12,
     "titulo": "Entrenamiento HIIT",
     "descripción": "Realiza 20 minutos de entrenamiento de alta intensidad con intervalos",
     "nivelDificultad": "Difícil",
@@ -387,7 +387,7 @@
     "completado": false
   },
   {
-    "id": 8,
+    "id": 13,
     "titulo": "Desayuno Saludable",
     "descripcion": "Prepara un desayuno equilibrado con proteínas, carbohidratos complejos y grasas saludables",
     "nivelDificultad": "Fácil",
@@ -395,7 +395,7 @@
     "completado": false
   },
   {
-    "id": 9,
+    "id": 14,
     "titulo": "Organizar Espacio de Trabajo",
     "descripcion": "Limpia y organiza completamente tu escritorio o espacio de trabajo",
     "nivelDificultad": "Medio",
@@ -403,7 +403,7 @@
     "completado": false
   },
   {
-    "id": 10,
+    "id": 15,
     "titulo": "Gratitud Diaria",
     "descripcion": "Escribe 3 cosas por las que te sientes agradecido hoy",
     "nivelDificultad": "Fácil",
