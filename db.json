@@ -324,92 +324,122 @@
         { "id": 4, "texto": "Cada paso cuenta, no te detengas." },
         { "id": 5, "texto": "El esfuerzo de hoy es el logro de mañana." }
     ],
- "retos": [
-    { "id": 1, "descripcion": "Haz 50 sentadillas hoy", "nivelDificultad": "Intermedio" },
-    { "id": 2, "descripcion": "Toma 2L de agua durante el día", "nivelDificultad": "Fácil" },
-    { "id": 3, "descripcion": "30 minutos de cardio", "nivelDificultad": "Avanzado" },
-    { "id": 4, "descripcion": "10 minutos de meditación", "nivelDificultad": "Fácil" },
-    { "id": 5, "descripcion": "Haz 3 series de planchas", "nivelDificultad": "Intermedio" },
-  {
+  "retos": [
+    { "id": 1,
+      "titulo": "Ejercicio",
+      "descripcion": "Haz 50 sentadillas hoy",
+      "nivelDificultad": "Difícil",
+      "categoria": "Ejercicio",
+      "completado": false
+    },
+    { "id": 2,
+      "titulo": "Nutrición",
+      "descripcion": "Toma 2L de agua durante el día",
+      "nivelDificultad": "Fácil",
+      "categoria": "Nutricion",
+      "completado": false
+    },
+    { "id": 3,
+      "titulo": "Ejercicio",
+      "descripcion": "30 minutos de cardio",
+      "nivelDificultad": "Avanzado",
+      "categoria": "Ejercicio",
+      "completado": false
+    },
+    { "id": 4,
+      "titulo": "Mindfulness",
+      "descripcion": "10 minutos de meditación",
+      "nivelDificultad": "Fácil",
+      "categoria": "Mindfulness",
+      "completado": false
+    },
+    { "id": 5,
+      "titulo": "Ejercicio",
+      "descripcion": "Haz 3 series de planchas",
+      "nivelDificultad": "Intermedio",
+      "categoria": "Ejercicio",
+      "completado": false
+    },
+    {
     "id": 6,
     "titulo": "Hidratación Matutina",
     "descripcion": "Bebe un vaso de agua nada más levantarte para activar tu metabolismo",
     "nivelDificultad": "Fácil",
     "categoria": "Nutrición",
     "completado": false
-  },
-  {
+    },
+    {
     "id": 7,
     "titulo": "Caminar 10,000 Pasos",
     "descripcion": "Alcanza los 10,000 pasos durante el día, puedes usar las escaleras o caminar durante las llamadas",
     "nivelDificultad": "Medio",
     "categoria": "Ejercicio",
     "completado": false
-  },
-  {
+    },
+    {
     "id": 8,
     "titulo": "Meditación de 5 Minutos",
     "descripcion": "Dedica 5 minutos a la meditación o respiración consciente para reducir el estrés",
     "nivelDificultad": "Fácil",
     "categoria": "Mindfulness",
     "completado": false
-  },
-  {
+    },
+    {
     "id": 9,
     "titulo": "Ejercicio de Fuerza",
     "descripcion": "Realiza 3 series de 15 flexiones, sentadillas y planchas",
     "nivelDificultad": "Medio",
     "categoria": "Ejercicio",
     "completado": false
-  },
-  {
+    },
+    {
     "id": 10,
     "titulo": "Técnica Pomodoro",
     "descripcion": "Trabaja durante 25 minutos concentrado y descansa 5 minutos. Repite 4 veces",
     "nivelDificultad": "Fácil",
     "categoria": "Productividad",
     "completado": false
-  },
-  {
+    },
+    {
     "id": 11,
     "titulo": "Comida Sin Pantallas",
     "descripcion": "Come al menos una comida del día sin mirar el teléfono, TV o computadora",
     "nivelDificultad": "Medio",
     "categoria": "Mindfulness",
     "completado": false
-  },
-  {
+     },
+    {
     "id": 12,
     "titulo": "Entrenamiento HIIT",
     "descripción": "Realiza 20 minutos de entrenamiento de alta intensidad con intervalos",
     "nivelDificultad": "Difícil",
     "categoria": "Ejercicio",
     "completado": false
-  },
-  {
+     },
+    {
     "id": 13,
     "titulo": "Desayuno Saludable",
     "descripcion": "Prepara un desayuno equilibrado con proteínas, carbohidratos complejos y grasas saludables",
     "nivelDificultad": "Fácil",
     "categoria": "Nutrición",
     "completado": false
-  },
-  {
+     },
+    {
     "id": 14,
     "titulo": "Organizar Espacio de Trabajo",
     "descripcion": "Limpia y organiza completamente tu escritorio o espacio de trabajo",
     "nivelDificultad": "Medio",
     "categoria": "Productividad",
     "completado": false
-  },
-  {
+     },
+    {
     "id": 15,
     "titulo": "Gratitud Diaria",
     "descripcion": "Escribe 3 cosas por las que te sientes agradecido hoy",
     "nivelDificultad": "Fácil",
     "categoria": "Mindfulness",
     "completado": false
-  }
-]
-}
+    }
+  ]
+ }
 
